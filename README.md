@@ -177,19 +177,6 @@ Tarayıcınızda otomatik olarak `http://localhost:8501` adresi açılacaktır.
 ✅ "Türkiye Büyük Millet Meclisi nasıl oluşur?"
 ✅ "Anayasada ifade ve düşünce özgürlüğü nasıl düzenlenmiştir?"
 ✅ "Anayasa değişikliği nasıl yapılır?"
-```
-
-### Ekran Görüntüleri
-
-**Ana Arayüz:**
-- Minimalist ve kullanıcı dostu tasarım
-- Gerçek zamanlı cevap üretimi
-- Loading animasyonları ile kullanıcı geri bildirimi
-
-**Kaynak Gösterimi:**
-- Her cevap için kullanılan Anayasa bölümleri
-- Benzerlik skorları (örn: %45.88)
-- Genişletilebilir kaynak metni paneli
 
 ---
 
@@ -280,15 +267,6 @@ SADECE verilen metinlere dayanarak cevap ver.
 
 *(Streamlit Cloud, Hugging Face Spaces, veya başka bir hosting platformu)*
 
----
-
-## 👨‍💻 Geliştirici
-
-**Akbank GenAI Bootcamp Projesi**
-
-- 📧 Email: [Email adresiniz]
-- 🔗 LinkedIn: [LinkedIn profiliniz]
-- 💼 GitHub: [GitHub profiliniz]
 
 ---
 
@@ -300,7 +278,6 @@ Bu proje eğitim amaçlı geliştirilmiştir.
 
 ## 🙏 Teşekkürler
 
-- Akbank & Global AI Hub - GenAI Bootcamp organizasyonu için
 - Google AI - Gemini API erişimi için
 - Sentence Transformers - Açık kaynak embedding modeli için
 
