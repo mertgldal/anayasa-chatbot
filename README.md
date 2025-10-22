@@ -261,15 +261,6 @@ SADECE verilen metinlere dayanarak cevap ver.
 
 ---
 
-## 🌐 Demo
-
-**🔗 Canlı Demo:** [Buraya deploy link'inizi ekleyin]
-
-*(Streamlit Cloud, Hugging Face Spaces, veya başka bir hosting platformu)*
-
-
----
-
 ## 📝 Lisans
 
 Bu proje eğitim amaçlı geliştirilmiştir.
